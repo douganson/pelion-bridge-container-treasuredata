@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge for TreasureData Observation Telemetry
   
+02/29/2020: updated bridge - fixes for draft mode MQTT (token handling) 
+
 02/29/2020: updated bridge - updated for treasuredata support. minor marshalling fixes
 
 02/26/2020: initial checkin
